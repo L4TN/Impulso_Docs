@@ -1,0 +1,163 @@
+- Primeiro Excel Custos
+  ![image.png](../assets/image_1767140256595_0.png)
+-
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **12.165**
+- **Output (saída):** **3.597**
+- **Total (In + Out):** **15.762**
+- ### 💰 Custo total
+- **US$ 0,004129**
+-
+-
+-
+- Segundo Excel Custos
+- ![image.png](../assets/image_1767141754594_0.png)
+-
+-
+- ### 🔢 Tokens
+- **Tokens de entrada (Input):** **18.806**
+- **Tokens de saída (Output):** **6.214**
+- **Tokens totais (In + Out):** **25.020**
+- ### 💰 Custo total
+- **US$ 0,005585**
+-
+-
+-
+-
+- ![image.png](../assets/image_1767142186959_0.png)
+- ### 🔢 Tokens
+- **Input (entrada):** **13.801**
+- **Output (saída):** **4.876**
+- **Total (In + Out):** **18.677**
+- ### 💰 Custo total
+- **US$ 0,004532**
+-
+-
+-
+- ![image.png](../assets/image_1767142382481_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **9.647**
+- **Output (saída):** **3.043**
+- **Total (In + Out):** **12.690**
+- ### 💰 Custo total
+- **US$ 0,003364**
+-
+- ![image.png](../assets/image_1767142846139_0.png)
+- ### 🔢 Tokens
+- **Input (entrada):** **31.858**
+- **Output (saída):** **11.735**
+- **Total (In + Out):** **43.593**
+- ### 💰 Custo total
+- **US$ 0,010288**
+-
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **40.433**
+- **Output (saída):** **13.808**
+- **Total (In + Out):** **54.241**
+- ### 💰 Custo total
+- **US$ 0,013543**
+-
+-
+- ![image.png](../assets/image_1767143219943_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **40.433**
+- **Output (saída):** **13.808**
+- **Total (In + Out):** **54.241**
+- ### 💰 Custo total
+- **US$ 0,013543**
+-
+-
+-
+-
+-
+-
+- ![image.png](../assets/image_1767143441573_0.png)
+- ### 🔢 Tokens
+- **Input (entrada):** **21.060**
+- **Output (saída):** **7.718**
+- **Total (In + Out):** **28.778**
+- ### 💰 Custo
+- **US$ 0,00732**
+-
+-
+-
+-
+- ![image.png](../assets/image_1767143640677_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **25.390**
+- **Output (saída):** **5.425**
+- **Total (In + Out):** **30.815**
+- ### 💰 Custo
+- **US$ 0,005525**
+-
+- --------------------------
+	- Ministral 24b-25  09/01/2026
+- ![image.png](../assets/image_1767844077368_0.png)
+-
+-
+- ### 🔢 Tokens
+- **Input (entrada):** ******2.891******
+- **Output (saída):** ******135******
+- **Total (In + Out):** **3.217**
+- ### 💰 Custo total
+- **US$ 0.0003263
+-
+- ![image.png](../assets/image_1767940434262_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** ********2.994********
+- **Output (saída):** ********87********
+- **Total (In + Out):** ********3.081********
+- ### 💰 Custo total
+- **US$ ****0.0003026****
+-
+- ![image.png](../assets/image_1767940223841_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** ******2.927******
+- **Output (saída):** ******43******
+- **Total (In + Out):** ******2.970******
+- ### 💰 Custo total
+- **US$ ****0.0003227****
+-
+- ![image.png](../assets/image_1767940619304_0.png){:height 111, :width 778}
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **********3.006**********
+- **Output (saída):** **********59**********
+- **Total (In + Out):** **********3.065**********
+- ### 💰 Custo total
+- **US$ **0.0003149**
+-
+- ![image.png](../assets/image_1767940893515_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **********3.076**********
+- **Output (saída):** **********82**********
+- **Total (In + Out):** **********3.158**********
+- ### 💰 Custo total
+- **US$ **0.0003288**
+-
+- ![image.png](../assets/image_1767941172938_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **********18.192**********
+- **Output (saída):** **********825**********
+- **Total (In + Out):** **********19.017**********
+- ### 💰 Custo total
+- **US$ **0.0020397**
+-
+- ![image.png](../assets/image_1767941477509_0.png)
+-
+- ### 🔢 Tokens
+- **Input (entrada):** **********7.029**********
+- **Output (saída):** **********436**********
+- **Total (In + Out):** **********7.465**********
+- ### 💰 Custo total
+- **US$ ****0.0008067****
+-
